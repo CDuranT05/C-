@@ -58,3 +58,55 @@ Console.WriteLine("el perimetro es:" + perimetro);
 int area = Base * Altura;
 Console.WriteLine("el area es:" + area);
 
+
+
+//Ejercico 4
+
+ Console.WriteLine("Por favor, introduce tu fecha de nacimiento.");
+
+Console.Write("Día (1-31): ");
+int dia = int.Parse(Console.ReadLine());
+
+Console.Write("Mes (1-12): ");
+int mes = int.Parse(Console.ReadLine());
+
+string signo= "";
+
+if((mes == 12 && dia >=22) || (mes == 1 && dia <=19)) {
+    signo="Capricornio";
+}
+else if((mes == 1 && dia >=20) || (mes == 2 && dia <=18)) {
+    signo="Acuario";
+}
+if((mes == 2 && dia >=19) || (mes == 3 && dia <=20)) {
+    signo="Picis";
+}
+if((mes == 3 && dia >=21) || (mes == 4 && dia <=19)) {
+    signo="Aries";
+}
+if((mes == 4 && dia >=20) || (mes == 5 && dia <=20)) {
+    signo="Tauro";
+}
+if((mes == 5 && dia >=21) || (mes == 6 && dia <=20)) {
+    signo="Geminis";
+}
+if((mes == 6 && dia >=21) || (mes == 7 && dia <=22)) {
+    signo="Cancer";
+}
+if((mes == 7 && dia >=23) || (mes == 8 && dia <=22)) {
+    signo="Leo";
+}
+if((mes == 8 && dia >=23) || (mes == 9 && dia <=22)) {
+    signo="Virgo";
+}
+if((mes == 9 && dia >=23) || (mes == 10 && dia <=22)) {
+    signo="Libra";
+}
+if((mes == 10 && dia >=23) || (mes == 11 && dia <=21)) {
+    signo="Escorpio";
+}
+if((mes == 11 && dia >=22) || (mes == 12 && dia <=21)) {
+    signo="Sagitario";
+}
+
+Console.WriteLine("tu signo sodiacal es:" + signo);
