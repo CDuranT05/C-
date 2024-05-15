@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\clau\\Desktop\\evaluacion nivel 1  c#\\Ejercicios\\Ejercicios.csproj": {}
+    "C:\\Users\\clau\\Desktop\\mis repositorios\\C-\\evaluacion nivel 1  c#\\Ejercicios\\Ejercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\clau\\Desktop\\evaluacion nivel 1  c#\\Ejercicios\\Ejercicios.csproj": {
+    "C:\\Users\\clau\\Desktop\\mis repositorios\\C-\\evaluacion nivel 1  c#\\Ejercicios\\Ejercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clau\\Desktop\\evaluacion nivel 1  c#\\Ejercicios\\Ejercicios.csproj",
+        "projectUniqueName": "C:\\Users\\clau\\Desktop\\mis repositorios\\C-\\evaluacion nivel 1  c#\\Ejercicios\\Ejercicios.csproj",
         "projectName": "Ejercicios",
-        "projectPath": "C:\\Users\\clau\\Desktop\\evaluacion nivel 1  c#\\Ejercicios\\Ejercicios.csproj",
+        "projectPath": "C:\\Users\\clau\\Desktop\\mis repositorios\\C-\\evaluacion nivel 1  c#\\Ejercicios\\Ejercicios.csproj",
         "packagesPath": "C:\\Users\\clau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\clau\\Desktop\\evaluacion nivel 1  c#\\Ejercicios\\obj\\",
+        "outputPath": "C:\\Users\\clau\\Desktop\\mis repositorios\\C-\\evaluacion nivel 1  c#\\Ejercicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\clau\\AppData\\Roaming\\NuGet\\NuGet.Config"
