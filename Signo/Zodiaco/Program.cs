@@ -84,4 +84,4 @@ else if((mes == 12 && dia <=21)){
     signo="Sagitario";
 }
 
-Console.WriteLine("tu signo sodiacal es:" + signo);
+Console.WriteLine("tu signo zodiacal es:" + signo);
